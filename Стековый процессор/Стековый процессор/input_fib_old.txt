@@ -1,0 +1,51 @@
+in
+pop cx
+push 2
+pop dx
+push 1
+pop ax
+push 1
+pop bx
+
+push ax
+push dx
+push cx
+
+push 1
+je 3
+pop
+
+push 2
+je 1
+pop
+
+call 5
+pop
+3:
+pop
+out
+end
+
+1:
+push 1
+push 1
+jmp 3
+
+5:
+pop cx
+pop dx
+pop ax
+
+push ax
+push bx
+add
+push ax
+pop bx
+
+push dx
+push 1
+add
+push cx
+
+jb 5
+ret

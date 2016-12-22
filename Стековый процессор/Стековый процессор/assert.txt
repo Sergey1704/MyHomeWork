@@ -1,0 +1,54 @@
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: popStack ===
+st->size = 0
+=== Error in function: peekStack ===
+st->size = 0
+=== Error in function: peekStack ===
+st->size = 0
+=== Error in function: peekStack ===
+st->size = 0

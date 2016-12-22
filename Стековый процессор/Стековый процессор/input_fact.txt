@@ -1,0 +1,35 @@
+in
+pop cx
+push 1
+pop bx
+push 1
+pop ax
+push bx
+push cx
+
+push 1
+jbe 222
+pop
+
+call 111
+
+push ax
+222:
+out
+end
+
+111:
+pop cx
+pop bx
+push bx
+push 1
+add
+pop bx
+push bx
+push ax
+mul
+pop ax
+push bx
+push cx
+jb 111
+ret

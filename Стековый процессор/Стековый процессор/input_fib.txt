@@ -1,0 +1,75 @@
+in
+pop ax
+
+push 1
+pop cache
+
+push i
+push 1
+add
+pop i
+push 1
+pop cache
+
+push i
+push ax
+call mark_create
+pop
+pop
+
+push 0
+pop i
+
+push i
+push ax
+call mark_print
+pop
+pop
+
+end
+
+mark_create:
+pop
+pop
+
+push i
+push 1
+sub
+pop i
+push cache
+
+push i
+push 1
+add
+pop i
+push cache
+
+push i
+push 1
+add
+pop i
+
+add
+pop cache
+
+push i
+push ax
+jb mark_create
+ret
+
+mark_print:
+pop
+pop
+
+push cache
+out
+
+push i
+push 1
+add
+pop i
+
+push i
+push ax
+jb mark_print
+ret

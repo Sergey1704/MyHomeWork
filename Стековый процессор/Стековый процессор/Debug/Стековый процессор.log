@@ -1,0 +1,11 @@
+﻿  stack.cpp
+c:\users\серёжа\documents\visual studio 2015\projects\стековый процессор\стековый процессор\stack.cpp(125): warning C4477: "fprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+c:\users\серёжа\documents\visual studio 2015\projects\стековый процессор\стековый процессор\stack.cpp(126): warning C4477: "fprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+  CPU.cpp
+  Создание кода...
+  Компиляция...
+  main.cpp
+  assembler.cpp
+  Создание кода...
+  Стековый процессор.vcxproj -> C:\Users\Серёжа\Documents\Visual Studio 2015\Projects\Стековый процессор\Debug\Стековый процессор.exe
+  Стековый процессор.vcxproj -> C:\Users\Серёжа\Documents\Visual Studio 2015\Projects\Стековый процессор\Debug\Стековый процессор.pdb (Partial PDB)
